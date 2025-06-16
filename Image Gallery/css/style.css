@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    color: navy;
+    margin: 30px 0px 50px;
+}
+
+.gallery img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover; /* fills the box without distortion */
+  margin: 10px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  filter: grayscale(100%);
+  transition: 1s;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery img:hover{
+
+    filter: grayscale(0);
+    transform: scale(1.1);
+}

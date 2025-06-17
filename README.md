@@ -6,4 +6,6 @@ Built a responsive image gallery using HTML and CSS as part of the CodeAlpha int
 - ✅ Task Completed: 2 out of 4  
 - 💡 Features: Grid layout, responsive design, hover effects
 
-### 📸 Preview
+## 📸 Preview
+
+![Screenshot 2025-06-17 124653](https://github.com/user-attachments/assets/53fb7447-b999-4cd9-8584-ade47611235a)
